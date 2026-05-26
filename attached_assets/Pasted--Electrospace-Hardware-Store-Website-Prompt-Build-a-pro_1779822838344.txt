@@ -1,0 +1,419 @@
+# Electrospace Hardware Store Website Prompt
+
+Build a professional Indian hardware and electronics component selling website.
+
+Business Name: Electrospace
+
+The website should feel like a real startup electronics store and should NOT look AI generated. The design should look handcrafted, modern, clean, trustworthy, and similar in quality to Indian electronics stores like Robu.in, ElectronicsComp, Robocraze, and Evelta.
+
+Use a dark mode UI with subtle colors. No bright gradients. Use matte black, dark gray, soft blue accents, and muted cyan highlights.
+
+The website should be fully responsive for desktop and mobile.
+
+Add a thin horizontal announcement strip at the very top of the website with auto sliding text saying:
+
+"⚠ Website still under development • Orders currently limited • New products added weekly"
+
+---
+
+## GENERAL DESIGN REQUIREMENTS
+
+* Professional ecommerce layout
+* Sticky navbar
+* Clean typography
+* Soft shadows
+* Rounded product cards
+* Smooth hover animations
+* Fast loading
+* Realistic spacing and alignment
+* Product cards should look like real ecommerce websites
+* Add breadcrumb navigation
+* Add search bar
+* Add product filters
+* Add dropdown category menus
+* Add wishlist icon
+* Add cart icon
+* Add user login icon
+* Add footer with company information
+* Add realistic electronics-themed icons
+* Add loading animations
+* Add out-of-stock labels
+* Add sale badges
+* Add featured products section
+* Add recently viewed products section
+* Add recommended products section
+
+---
+
+## NAVBAR REQUIREMENTS
+
+Navbar should include:
+
+* Electrospace logo on left
+* Search bar in center
+* Cart icon
+* Login icon
+* Category dropdown menu
+
+Dropdown categories:
+
+1. Development Boards
+
+   * ESP32
+   * Raspberry Pi
+   * Arduino
+   * STM32
+
+2. Displays
+
+   * E-Ink Displays
+   * LCD Displays
+   * OLED Displays
+   * TFT Displays
+
+3. Components
+
+   * Capacitors
+   * Resistors
+   * MOSFETs
+   * Sensors
+   * Relays
+
+4. Power Modules
+
+   * USB-C PD Modules
+   * Battery Chargers
+   * Voltage Regulators
+   * Boost Converters
+
+5. Wireless
+
+   * Bluetooth Modules
+   * WiFi Modules
+   * NRF24L01
+   * LoRa
+
+6. DIY Kits
+
+7. Tools & Accessories
+
+---
+
+## HOMEPAGE SECTIONS
+
+1. Hero Section
+
+* Big clean hero banner
+* Include modern electronics workspace background
+* Add tagline:
+
+"Build Hardware Beyond Imagination"
+
+* Add buttons:
+
+  * Shop Now
+  * Explore Displays
+
+2. Featured Products
+
+3. Trending Components
+
+4. Best Sellers
+
+5. New Arrivals
+
+6. DIY Electronics Kits
+
+7. Why Choose Electrospace
+
+Cards:
+
+* Fast Shipping
+* Secure Checkout
+* Student Friendly Pricing
+* Tested Components
+* Email Support
+
+8. Newsletter Subscription
+
+---
+
+## PRODUCT PAGE REQUIREMENTS
+
+Each product page should include:
+
+* Multiple product images
+* Product title
+* Product rating
+* Stock status
+* SKU number
+* Price
+* Discount price
+* Quantity selector
+* Add to cart button
+* Buy now button
+* Technical specifications
+* Description
+* Features
+* Shipping info
+* Estimated delivery
+* Customer reviews
+* Related products
+* Frequently bought together
+
+---
+
+## SHOPPING CART PAGE
+
+Cart page should include:
+
+* Product image
+* Product quantity controls
+* Remove item button
+* Coupon code section
+* Shipping estimate
+* Subtotal
+* GST display
+* Final total
+* Continue shopping button
+* Proceed to checkout button
+
+---
+
+## CHECKOUT PAGE
+
+Checkout page should include:
+
+* Shipping address form
+* Mobile number field
+* Email field
+* State and PIN code
+* Order summary
+* GST breakdown
+* Shipping fee
+* Payment options
+
+Payment section should include logos for:
+
+* PayPal
+* UPI
+* Visa
+* Mastercard
+* RuPay
+
+But below payment section display:
+
+"⚠ Payment gateway integration currently under development"
+
+---
+
+## FOOTER REQUIREMENTS
+
+Footer should include:
+
+Quick Links:
+
+* About Us
+* Contact Us
+* Shipping Policy
+* Privacy Policy
+* Refund Policy
+* Terms & Conditions
+* FAQ
+* Track Order
+
+Customer Support:
+Email: [ytpartnership2427@gmail.com](mailto:ytpartnership2427@gmail.com)
+
+Social Icons:
+
+* Instagram
+* GitHub
+* YouTube
+* Twitter/X
+
+---
+
+## LEGAL PAGES REQUIRED FOR PAYPAL APPROVAL
+
+Create realistic professional legal pages required for ecommerce trust and PayPal approval.
+
+1. Privacy Policy
+   Include:
+
+* Customer data collection
+* Cookies usage
+* Payment security
+* Third party services
+* Contact details
+* Data protection
+
+2. Terms and Conditions
+   Include:
+
+* Website usage
+* Product information
+* Pricing policy
+* Limitation of liability
+* Order cancellation rights
+* Intellectual property
+
+3. Shipping Policy
+   Include:
+
+* Shipping timelines in India
+* Delays due to logistics
+* Processing times
+* Tracking information
+* Damaged package reporting
+
+4. Refund & Cancellation Policy
+   Include:
+
+* Refund eligibility
+* Non-refundable products
+* Replacement conditions
+* Cancellation windows
+* Processing time
+
+5. About Us
+   Write naturally like a small Indian indie electronics startup created by makers and students passionate about hardware projects, embedded systems, and DIY electronics.
+
+Avoid robotic corporate wording.
+
+---
+
+## REALISTIC PRODUCT LISTINGS
+
+Add realistic products with placeholder images, pricing, ratings, and descriptions.
+
+Use products like:
+
+1. Waveshare 2.13 inch E-Ink Display
+   Price: ₹1799
+   Image suggestion:
+   [https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT](https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT)
+
+2. ESP32 Dev Board WiFi + Bluetooth
+   Price: ₹399
+   Image suggestion:
+   [https://www.espressif.com/en/products/socs/esp32](https://www.espressif.com/en/products/socs/esp32)
+
+3. Raspberry Pi Pico
+   Price: ₹449
+   Image suggestion:
+   [https://www.raspberrypi.com/products/raspberry-pi-pico/](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+
+4. USB-C PD Trigger Module
+   Price: ₹249
+   Image suggestion:
+   [https://robu.in/product/usb-c-pd-trigger-module/](https://robu.in/product/usb-c-pd-trigger-module/)
+
+5. NRF24L01 Wireless Module
+   Price: ₹129
+   Image suggestion:
+   [https://components101.com/wireless/nrf24l01-pinout-features-datasheet](https://components101.com/wireless/nrf24l01-pinout-features-datasheet)
+
+6. OLED 0.96 inch Display
+   Price: ₹159
+   Image suggestion:
+   [https://lastminuteengineers.com/oled-display-arduino-tutorial/](https://lastminuteengineers.com/oled-display-arduino-tutorial/)
+
+7. STM32 Blue Pill
+   Price: ₹299
+   Image suggestion:
+   [https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
+
+8. TP4056 Battery Charging Module
+   Price: ₹49
+   Image suggestion:
+   [https://components101.com/modules/tp4056a-li-ion-battery-charging-discharging-module](https://components101.com/modules/tp4056a-li-ion-battery-charging-discharging-module)
+
+9. Arduino Nano Compatible Board
+   Price: ₹249
+   Image suggestion:
+   [https://store.arduino.cc/products/arduino-nano](https://store.arduino.cc/products/arduino-nano)
+
+10. 1.54 inch SPI TFT Display
+    Price: ₹349
+    Image suggestion:
+    [https://www.waveshare.com/1.54inch-lcd-module.htm](https://www.waveshare.com/1.54inch-lcd-module.htm)
+
+---
+
+## ADDITIONAL TRUST ELEMENTS
+
+Include:
+
+* COD availability badge
+* Secure checkout badge
+* SSL secure payment icon
+* GST invoice available label
+* Trusted by makers section
+* Fake sample reviews from electronics hobbyists
+* FAQ section
+* Order tracking section
+* Contact form
+
+---
+
+## TECHNICAL REQUIREMENTS
+
+* Build using modern responsive layout
+* Dark mode by default
+* Mobile optimized
+* SEO friendly structure
+* Product filtering
+* Search functionality
+* Cart functionality
+* Smooth transitions
+* Realistic ecommerce interactions
+
+---
+
+## IMPORTANT STYLE REQUIREMENTS
+
+* Avoid neon cyberpunk look
+* Avoid AI-generated generic layouts
+* Make it feel like a genuine indie electronics store
+* Use realistic product descriptions
+* Keep spacing professional
+* Use authentic ecommerce patterns
+* Use subtle animations only
+* Use modern glassmorphism very lightly
+* Maintain clean dark aesthetic
+
+---
+
+## PRODUCT IMAGE + PRICE SOURCE LIST
+
+Use electronics product references and pricing inspired from:
+
+* [https://robu.in/](https://robu.in/)
+* [https://electronicscomp.com/](https://electronicscomp.com/)
+* [https://roboCraze.com/](https://roboCraze.com/)
+* [https://evelta.com/](https://evelta.com/)
+* [https://www.waveshare.com/](https://www.waveshare.com/)
+* [https://www.raspberrypi.com/](https://www.raspberrypi.com/)
+* [https://www.espressif.com/](https://www.espressif.com/)
+
+Use realistic Indian pricing.
+
+---
+
+## FINAL NOTE
+
+The final website should feel authentic enough that a payment provider like PayPal sees it as a legitimate electronics ecommerce business website with:
+
+* Legal policies
+* Contact information
+* Realistic products
+* Shipping details
+* Trust signals
+* Professional design
+* Proper navigation
+* Cart and checkout flow
+* Product categorization
+* Business identity
+
+The website should look production-ready even if payments are marked as under development.

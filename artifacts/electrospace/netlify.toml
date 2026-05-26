@@ -1,0 +1,8 @@
+[build]
+  # pnpm is needed to resolve "catalog:" deps in the monorepo
+  command = "npm install -g pnpm@9 && pnpm install --frozen-lockfile && pnpm --filter @workspace/electrospace run build"
+  publish = "artifacts/electrospace/dist/public"
+
+[build.environment]
+  # import.meta.dirname requires Node 20.11+
+  NODE_VERSION = "20"
